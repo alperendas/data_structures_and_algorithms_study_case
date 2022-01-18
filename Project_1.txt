@@ -15,7 +15,7 @@ Solution:
 [2,6,16,18,22,27]
 
 2.
-Big-O notion is O(n).
+Big-O notion is O(n^2).
 
 3. Time complexity: average case: The number which is wanted is in the middle, Worst case: The number which is wanted is in tha last, Best case: the number which is wanted is the first.
 
