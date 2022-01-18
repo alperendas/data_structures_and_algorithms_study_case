@@ -1,0 +1,29 @@
+Case:
+[22,27,16,2,18,6] -> Insertion Sort
+1. Write the array which is above, step by step to sort type.
+2. Write the Big-O notion.
+3. Time complexity: average case: The number which is wanted is in the middle, Worst case: The number which is wanted is in tha last, Best case: the number which is wanted is the first.
+4. Which case contains the number '18' after the array is sorted? Write down.
+[7,3,5,8,2,9,4,15,6] write down first 4 steps to insertion sort of this array.
+
+
+Solution:
+1. 
+[2,27,16,22,18,6]
+[2,6,16,22,18,27]
+[2,6,16,18,22,27]
+[2,6,16,18,22,27]
+
+2.
+Big-O notion is O(n).
+
+3. Time complexity: average case: The number which is wanted is in the middle, Worst case: The number which is wanted is in tha last, Best case: the number which is wanted is the first.
+
+4.
+After the array is sorted the number '18' is in the average case.
+
+First 4 steps:
+[2,3,5,8,7,9,4,15,16]
+[2,3,5,8,7,9,4,15,16]
+[2,3,4,8,7,9,5,15,16]
+[2,3,4,5,7,9,8,15,16]
