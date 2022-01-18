@@ -1,0 +1,8 @@
+Case:
+[16,21,11,8,12,22] -> Merge Sort
+1. Write down the array's steps the array which is above to sort type.
+2. Show the Big-O notion.
+
+
+Solution:
+1. 
